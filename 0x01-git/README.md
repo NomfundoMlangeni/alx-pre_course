@@ -1,1 +1,2 @@
-my secound readme update 
+my secound readme 
+updated
